@@ -18,5 +18,5 @@
 	}
 	echo "<!DOCTYPE html>";
 	echo "<title>Debug</title>";
-	echo "<p>Debug: <a href=\"" . $avatar . "\">" . $avatar . "</a>";
+	echo "<p>Debug: " . $avatar;
 ?>
