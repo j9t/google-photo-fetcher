@@ -12,11 +12,11 @@
 	if ($w != "" && $h != "") {
 		$avatar = str_replace("s64-c", "w" . $w . "-h" . $h . "-no", $avatar);
 	}
-	if ($debug == "") {
+	if (isset($_GET['debug'])) {
+		echo "<!DOCTYPE html>";
+		echo "<title>Debug</title>";
+		echo "<p>Debug: " . $avatar;
+	} else {
 		header("Location: $avatar", TRUE, 302);
-		die();
 	}
-	echo "<!DOCTYPE html>";
-	echo "<title>Debug</title>";
-	echo "<p>Debug: " . $avatar;
 ?>
