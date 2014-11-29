@@ -5,4 +5,4 @@ A PHP script that retrieves and redirects to a given Google user’s current pro
 
 Details: For the moment, please see announcement and [documentation on Google+ post](https://plus.google.com/+JensOMeiert/posts/1xzvr3Wp8KA).
 
-⚠ The script is in need of some TLC. Help to improve it much appreciated.
+⚠ The script is in need of some TLC. Help and advice are much appreciated.
