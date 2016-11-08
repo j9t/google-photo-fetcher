@@ -1,4 +1,4 @@
-# google-photo-fetcher
+# Google Photo Fetcher
 
 A PHP script that retrieves and redirects to a given Google user’s *current* profile photo. (That is, the profile photo URL never needs updating.)
 
