@@ -6,4 +6,4 @@ Details: For the moment, please see announcement and [documentation on Google+ p
 
 ----
 
-The script is currently unmaintained and needs TLC (as of November 8, 2016). [Contributions welcome.](https://github.com/j9t/google-photo-fetcher/issues/new)
+The script is currently unmaintained and needs TLC (as of January 17, 2018). [Contributions welcome.](https://github.com/j9t/google-photo-fetcher/issues/new)
